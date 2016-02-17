@@ -1,0 +1,20 @@
+classdef Tree_Node < handle
+    properties
+        index=-100;
+        nuclear=-100;
+        relation=-100;
+        children={};
+        parent=[];
+        sen_index=-100;
+        isleaf=-100;
+        leaf_index=-100;
+        isroot=-100;
+        h_multi=[];
+        c_multi=[];
+        h_binary=[];
+        c_binary=[];
+        lstm_binary=[];
+        lstm_multi=[];
+        span=[];
+    end
+end
