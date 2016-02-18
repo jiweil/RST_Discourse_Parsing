@@ -20,10 +20,10 @@ Infer: Doing inference on testing dataset.
 
 ## Training
 run binary/discourse_binary.m
+
 run multi/discourse_multi.m
 ## Testing
-run /test/decode_beam_standard.m.
-
+infer/Evaluation.m
 
 download [data,embeddings](http://cs.stanford.edu/~bdlijiwei/discourse_data.tar)
 
