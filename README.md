@@ -1,4 +1,4 @@
-# RST Discourse Paring using Deep Neural Net
+# RST Discourse Parsing using Deep Neural Nets
 Implementations of RST discourse paring models represented in "Recursive Deep Models for Discourse Parsing" and "When Are Tree Structures Necessary for Deep Learning of Representations? ". Bi-directional LSTMs are applied to EDU sequences and Tree LSTMs are applied for tree construction.
 
 ## Requirements:
